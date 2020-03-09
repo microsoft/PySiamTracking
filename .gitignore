@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+output/
+output
+tmp/
+build/
+cython_bbox.c
+cython_nms.c
+__pycache__
+*.pyc
+*.pyd
+*.o
+*.obj
+*.so

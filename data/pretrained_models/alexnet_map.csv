@@ -1,0 +1,10 @@
+features.0.weight	conv1.conv.weight
+features.0.bias	conv1.conv.bias
+features.3.weight	conv2.conv.weight
+features.3.bias	conv2.conv.bias
+features.6.weight	conv3.conv.weight
+features.6.bias	conv3.conv.bias
+features.8.weight	conv4.conv.weight
+features.8.bias	conv4.conv.bias
+features.10.weight	conv5.conv.weight
+features.10.bias	conv5.conv.bias

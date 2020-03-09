@@ -1,0 +1,3199 @@
+[
+	{
+		"name": "airplane-1",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"LR"
+		]
+	},
+	{
+		"name": "airplane-9",
+		"attrs": [
+			"IV",
+			"POC",
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "airplane-13",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "airplane-15",
+		"attrs": [
+			"IV",
+			"CM",
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "basketball-1",
+		"attrs": [
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR"
+		]
+	},
+	{
+		"name": "basketball-6",
+		"attrs": [
+			"POC",
+			"MB",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "basketball-7",
+		"attrs": [
+			"POC",
+			"MB",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "basketball-11",
+		"attrs": [
+			"IV",
+			"POC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bear-2",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bear-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bear-6",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bear-17",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bicycle-2",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bicycle-7",
+		"attrs": [
+			"IV",
+			"POC",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bicycle-9",
+		"attrs": [
+			"IV",
+			"POC",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bicycle-18",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bird-2",
+		"attrs": [
+			"IV",
+			"POC",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "bird-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bird-15",
+		"attrs": [
+			"IV",
+			"DEF",
+			"CM",
+			"BC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bird-17",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "boat-3",
+		"attrs": [
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "boat-4",
+		"attrs": [
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "boat-12",
+		"attrs": [
+			"POC",
+			"VC",
+			"SV",
+			"LR"
+		]
+	},
+	{
+		"name": "boat-17",
+		"attrs": [
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "book-3",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "book-10",
+		"attrs": [
+			"DEF",
+			"SV"
+		]
+	},
+	{
+		"name": "book-11",
+		"attrs": [
+			"POC"
+		]
+	},
+	{
+		"name": "book-19",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bottle-1",
+		"attrs": [
+			"MB",
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bottle-12",
+		"attrs": [
+			"POC",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bottle-14",
+		"attrs": [
+			"POC",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bottle-18",
+		"attrs": [
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "bus-2",
+		"attrs": [
+			"POC",
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "bus-5",
+		"attrs": [
+			"IV",
+			"MB",
+			"CM",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "bus-17",
+		"attrs": [
+			"IV",
+			"POC",
+			"MB",
+			"CM",
+			"SV"
+		]
+	},
+	{
+		"name": "bus-19",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "car-2",
+		"attrs": [
+			"IV",
+			"POC",
+			"MB",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "car-6",
+		"attrs": [
+			"IV",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FM"
+		]
+	},
+	{
+		"name": "car-9",
+		"attrs": [
+			"IV",
+			"POC",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "car-17",
+		"attrs": [
+			"IV",
+			"POC",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "cat-1",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "cat-3",
+		"attrs": [
+			"DEF",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "cat-18",
+		"attrs": [
+			"DEF",
+			"CM",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "cat-20",
+		"attrs": [
+			"DEF",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "cattle-2",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "cattle-7",
+		"attrs": [
+			"MB",
+			"CM",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "cattle-12",
+		"attrs": [
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "cattle-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"BC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "spider-14",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "spider-16",
+		"attrs": [
+			"IV",
+			"DEF",
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "spider-18",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV"
+		]
+	},
+	{
+		"name": "spider-20",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "coin-3",
+		"attrs": [
+			"IV",
+			"POC",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "coin-6",
+		"attrs": [
+			"IV",
+			"POC",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "coin-7",
+		"attrs": [
+			"IV",
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"ARC"
+		]
+	},
+	{
+		"name": "coin-18",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "crab-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "crab-6",
+		"attrs": [
+			"DEF",
+			"CM",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "crab-12",
+		"attrs": [
+			"IV",
+			"POC",
+			"CM",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "crab-18",
+		"attrs": [
+			"ROT",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "surfboard-12",
+		"attrs": [
+			"POC",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "surfboard-4",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "surfboard-5",
+		"attrs": [
+			"ROT",
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "surfboard-8",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "cup-1",
+		"attrs": [
+			"MB",
+			"CM",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "cup-4",
+		"attrs": [
+			"BC"
+		]
+	},
+	{
+		"name": "cup-7",
+		"attrs": [
+			"CM",
+			"BC"
+		]
+	},
+	{
+		"name": "cup-17",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "deer-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "deer-8",
+		"attrs": [
+			"POC",
+			"DEF",
+			"VC",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "deer-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "deer-14",
+		"attrs": [
+			"POC",
+			"DEF",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "dog-1",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "dog-7",
+		"attrs": [
+			"DEF",
+			"CM",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "dog-15",
+		"attrs": [
+			"DEF",
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "dog-19",
+		"attrs": [
+			"POC",
+			"DEF",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "guitar-3",
+		"attrs": [
+			"IV",
+			"CM",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "guitar-8",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "guitar-10",
+		"attrs": [
+			"IV",
+			"POC",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "guitar-16",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "person-1",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "person-5",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "person-10",
+		"attrs": [
+			"IV",
+			"POC",
+			"ROT",
+			"VC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "person-12",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"BC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "pig-2",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "pig-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "pig-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "pig-18",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rubicCube-1",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "rubicCube-6",
+		"attrs": [
+			"POC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rubicCube-14",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "rubicCube-19",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "swing-10",
+		"attrs": [
+			"POC",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "swing-14",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "swing-17",
+		"attrs": [
+			"POC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "swing-20",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "drone-13",
+		"attrs": [
+			"MB",
+			"CM",
+			"BC",
+			"VC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "drone-15",
+		"attrs": [
+			"IV",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "drone-2",
+		"attrs": [
+			"IV",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "drone-7",
+		"attrs": [
+			"IV",
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "pool-12",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "pool-15",
+		"attrs": [
+			"MB",
+			"CM",
+			"BC",
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "pool-3",
+		"attrs": [
+			"MB",
+			"CM",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "pool-7",
+		"attrs": [
+			"MB",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rabbit-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rabbit-13",
+		"attrs": [
+			"DEF",
+			"MB",
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rabbit-17",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "rabbit-19",
+		"attrs": [
+			"DEF",
+			"MB",
+			"ROT",
+			"VC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "racing-10",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"LR"
+		]
+	},
+	{
+		"name": "racing-15",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC"
+		]
+	},
+	{
+		"name": "racing-16",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"BC",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "racing-20",
+		"attrs": [
+			"POC",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "robot-1",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "robot-19",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "robot-5",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "robot-8",
+		"attrs": [
+			"MB",
+			"CM",
+			"ROT",
+			"VC",
+			"SV"
+		]
+	},
+	{
+		"name": "sepia-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "sepia-16",
+		"attrs": [
+			"IV",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "sepia-6",
+		"attrs": [
+			"CM",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "sepia-8",
+		"attrs": [
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "sheep-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "sheep-5",
+		"attrs": [
+			"POC",
+			"DEF",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "sheep-7",
+		"attrs": [
+			"MB",
+			"CM",
+			"SV"
+		]
+	},
+	{
+		"name": "sheep-9",
+		"attrs": [
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"VC",
+			"SV",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "skateboard-16",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "skateboard-19",
+		"attrs": [
+			"IV",
+			"MB",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "skateboard-3",
+		"attrs": [
+			"POC",
+			"CM",
+			"VC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "skateboard-8",
+		"attrs": [
+			"POC",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "tank-14",
+		"attrs": [
+			"POC",
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "tank-16",
+		"attrs": [
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "tank-6",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"VC",
+			"SV"
+		]
+	},
+	{
+		"name": "tank-9",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "tiger-12",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "tiger-18",
+		"attrs": [
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "tiger-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "tiger-6",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "train-1",
+		"attrs": [
+			"ROT",
+			"VC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "train-11",
+		"attrs": [
+			"VC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "train-20",
+		"attrs": [
+			"POC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "train-7",
+		"attrs": [
+			"POC",
+			"VC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "truck-16",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "truck-3",
+		"attrs": [
+			"VC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "truck-6",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "truck-7",
+		"attrs": [
+			"ROT",
+			"VC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "turtle-16",
+		"attrs": [
+			"IV",
+			"DEF",
+			"ROT",
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "turtle-5",
+		"attrs": [
+			"DEF",
+			"VC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "turtle-8",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "turtle-9",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "umbrella-17",
+		"attrs": [
+			"MB",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "umbrella-19",
+		"attrs": [
+			"POC",
+			"CM",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "umbrella-2",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "umbrella-9",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "yoyo-15",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "yoyo-17",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "yoyo-19",
+		"attrs": [
+			"POC",
+			"MB",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "yoyo-7",
+		"attrs": [
+			"POC",
+			"MB",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "zebra-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "zebra-14",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "zebra-16",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "zebra-17",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "elephant-1",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "elephant-12",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "elephant-16",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "elephant-18",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "goldfish-3",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "goldfish-7",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "goldfish-8",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "goldfish-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hat-1",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hat-2",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hat-5",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hat-18",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "kite-4",
+		"attrs": [
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "kite-6",
+		"attrs": [
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "kite-10",
+		"attrs": [
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "kite-15",
+		"attrs": [
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "motorcycle-1",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "motorcycle-3",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "motorcycle-9",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "motorcycle-18",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "mouse-1",
+		"attrs": [
+			"DEF",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "mouse-8",
+		"attrs": [
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "mouse-9",
+		"attrs": [
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "mouse-17",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "flag-3",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "flag-9",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "flag-5",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "flag-2",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "frog-3",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"VC",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "frog-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "frog-20",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "frog-9",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV"
+		]
+	},
+	{
+		"name": "gametarget-1",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "gametarget-2",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "gametarget-7",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "gametarget-13",
+		"attrs": [
+			"ROT",
+			"BC",
+			"SV",
+			"LR"
+		]
+	},
+	{
+		"name": "hand-2",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"BC",
+			"SV"
+		]
+	},
+	{
+		"name": "hand-3",
+		"attrs": [
+			"DEF",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hand-9",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hand-16",
+		"attrs": [
+			"DEF",
+			"MB",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "helmet-5",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "helmet-11",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "helmet-19",
+		"attrs": [
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "helmet-13",
+		"attrs": [
+			"ROT",
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "licenseplate-6",
+		"attrs": [
+			"SV",
+			"LR"
+		]
+	},
+	{
+		"name": "licenseplate-12",
+		"attrs": [
+			"POC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "licenseplate-13",
+		"attrs": [
+			"SV",
+			"LR"
+		]
+	},
+	{
+		"name": "licenseplate-15",
+		"attrs": [
+			"VC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "electricfan-1",
+		"attrs": [
+			"MB",
+			"CM",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "electricfan-10",
+		"attrs": [
+			"ROT"
+		]
+	},
+	{
+		"name": "electricfan-18",
+		"attrs": [
+			"POC",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "electricfan-20",
+		"attrs": [
+			"POC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "chameleon-3",
+		"attrs": [
+			"DEF",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "chameleon-6",
+		"attrs": [
+			"IV",
+			"DEF",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "chameleon-11",
+		"attrs": [
+			"DEF",
+			"MB",
+			"CM",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "chameleon-20",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"FOC"
+		]
+	},
+	{
+		"name": "crocodile-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "crocodile-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "crocodile-10",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"MB",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "crocodile-14",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"SV"
+		]
+	},
+	{
+		"name": "gecko-1",
+		"attrs": [
+			"IV",
+			"DEF",
+			"ROT",
+			"VC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "gecko-5",
+		"attrs": [
+			"DEF",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "gecko-16",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"VC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "gecko-19",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "fox-2",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"BC",
+			"VC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "fox-3",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "fox-5",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "fox-20",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "giraffe-2",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "giraffe-10",
+		"attrs": [
+			"POC",
+			"DEF",
+			"CM",
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "giraffe-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "giraffe-15",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "gorilla-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "gorilla-6",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "gorilla-9",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "gorilla-13",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "hippo-1",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FM",
+			"ARC"
+		]
+	},
+	{
+		"name": "hippo-7",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "hippo-9",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"ROT",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "hippo-20",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "horse-1",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "horse-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "horse-12",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "horse-15",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "kangaroo-2",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "kangaroo-5",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "kangaroo-11",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "kangaroo-14",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "leopard-1",
+		"attrs": [
+			"IV",
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "leopard-7",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "leopard-16",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "leopard-20",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "lion-1",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "lion-5",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "lion-12",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "lion-20",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "lizard-1",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "lizard-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"VC",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "lizard-6",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "lizard-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "microphone-2",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "microphone-6",
+		"attrs": [
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR"
+		]
+	},
+	{
+		"name": "microphone-14",
+		"attrs": [
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "microphone-16",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "monkey-3",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "monkey-4",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "monkey-9",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"FOC",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "monkey-17",
+		"attrs": [
+			"DEF",
+			"ROT",
+			"SV",
+			"FM",
+			"OV",
+			"ARC"
+		]
+	},
+	{
+		"name": "shark-2",
+		"attrs": [
+			"POC",
+			"MB",
+			"ROT",
+			"BC",
+			"SV",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "shark-3",
+		"attrs": [
+			"POC",
+			"ROT",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "shark-5",
+		"attrs": [
+			"IV",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "shark-6",
+		"attrs": [
+			"POC",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "squirrel-8",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "squirrel-11",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"BC",
+			"SV",
+			"FOC",
+			"ARC"
+		]
+	},
+	{
+		"name": "squirrel-13",
+		"attrs": [
+			"POC",
+			"DEF",
+			"MB",
+			"CM",
+			"ROT",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "squirrel-19",
+		"attrs": [
+			"POC",
+			"DEF",
+			"ROT",
+			"SV",
+			"ARC"
+		]
+	},
+	{
+		"name": "volleyball-1",
+		"attrs": [
+			"POC",
+			"MB",
+			"BC",
+			"SV",
+			"FOC",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "volleyball-13",
+		"attrs": [
+			"POC",
+			"MB",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "volleyball-18",
+		"attrs": [
+			"POC",
+			"MB",
+			"BC",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	},
+	{
+		"name": "volleyball-19",
+		"attrs": [
+			"POC",
+			"MB",
+			"SV",
+			"FOC",
+			"FM",
+			"OV",
+			"LR",
+			"ARC"
+		]
+	}
+]

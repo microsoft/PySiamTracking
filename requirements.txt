@@ -1,0 +1,5 @@
+Cython
+opencv-python
+addict
+pandas
+tabulate
