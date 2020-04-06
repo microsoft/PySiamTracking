@@ -12,24 +12,26 @@ In general, 3 video datasets and 1 image dataset are used to to train tracker mo
 Following SiamFC, the datasets are firstly center-cropped and resized to a fixed size (446 x 446 in our setting). The preprocessing scripts are provided in `preprocessing/` folder. One can run these scripts to generate necessary training data.
 
 ```bash
+cd preprocessing
 # COCO dataset
-python preprocessing/coco.py \
+python coco.py \
 --image_dir <coco_root> \
 --ann_path <coco_ann_path.json> \
 --output_dir <output_root>/coco
 
 # LaSOT train split
-python preprocessing/lasot.py \
+python lasot.py \
 --root_dir <lasot_root> \
 --output_dir <output_root>/lasot
 
+# copy TrackingNet_class_info/ to <trackingnet_root>
 # TrackingNet
-python preprocessing/trackingnet.py \
+python trackingnet.py \
 --root_dir <trackingnet_root> \
 --output_dir <output_root>/trackingnet
 
 # GOT10k
-python preprocessing/got10k.py \
+python got10k.py \
 --root_dir <got10k_root> \
 --output_dir <output_root>/got10k
 ```
@@ -45,13 +47,13 @@ Since some datasets are quite large. We uniformly sample **1 frame in every 10 f
 We save the files as the following structure.
 
 ```
-|   coco.pkl
+|   coco_clean.pkl
 |   COCO.zip
 |   got10k_train_clean.pkl
 |   got10k_train_images.zip
-|   lasot_train.pkl
+|   lasot_train_clean.pkl
 |   LaSOT_train_images.zip
-|   trackingnet.pkl
+|   trackingnet_clean.pkl
 |   TrackingNet_images.zip
 |
 +---COCO/
@@ -59,6 +61,13 @@ We save the files as the following structure.
 +---LaSOT_trian_images/
 +---TrackingNet_images/
 ```
+
+We also provide the pre-processed zip-file and pkl annotation files: 
+
+- [coco_clean.pkl](https://imgtracking.blob.core.windows.net/pysiamtracking/data/coco_clean.pkl) / [COCO.zip](https://imgtracking.blob.core.windows.net/pysiamtracking/data/COCO.zip) 
+- [got10k_train_clean.pkl](https://imgtracking.blob.core.windows.net/pysiamtracking/data/got10k_train_clean.pkl) / [got10k_train_images.zip](https://imgtracking.blob.core.windows.net/pysiamtracking/data/got10k_train_images.zip)
+- [lasot_train_clean.pkl](https://imgtracking.blob.core.windows.net/pysiamtracking/data/lasot_train_clean.pkl) / [LaSOT_train_images.zip](https://imgtracking.blob.core.windows.net/pysiamtracking/data/LaSOT_trian_images.zip)
+- [trackingnet_clean.pkl](https://imgtracking.blob.core.windows.net/pysiamtracking/data/trackingnet_clean.pkl) / [TrackingNet_images.zip](https://imgtracking.blob.core.windows.net/pysiamtracking/data/TrackingNet_images.zip)
 
 For the users who have sufficient memory (> 160GB) and slow I/O speed (e.g. distributed storage through network), we recommend to pack images into a single .zip file (e.g. COCO.zip) so that it can be pre-loaded into memory for efficient reading.
 
