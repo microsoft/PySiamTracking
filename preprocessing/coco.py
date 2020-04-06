@@ -5,7 +5,7 @@ import json
 import numpy as np
 import os
 
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 
 def parse_args():

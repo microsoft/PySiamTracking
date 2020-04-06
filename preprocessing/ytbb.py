@@ -1,11 +1,10 @@
-import _init_paths
 import argparse
 import numpy as np
 import os
 import _pickle as pickle
 from PIL import Image
 import time
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 
 def parse_args():

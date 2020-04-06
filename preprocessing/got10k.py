@@ -2,7 +2,7 @@ import argparse
 import numpy as np
 import os
 
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 
 CLASSES = ['aircraft', 'ambulance', 'anteater', 'antelope', 'armadillo', 'balance car', 'ball', 'bear', 'bicycle',
@@ -117,7 +117,7 @@ if __name__ == '__main__':
             print("warning: no valid annotations in {}".format(seq_name))
             continue
 
-        frames = ['{}/{:08d}.jpg'.format(seq_name, i+1) for i in valid_inds]
+        frames = [os.path.join(root_dir, '{}/{:08d}.jpg'.format(seq_name, i+1)) for i in valid_inds]
         frame_inds = frame_inds[valid_inds]
         gt_bboxes = gt_bboxes[valid_inds]
         category = np.zeros((gt_bboxes.shape[0], 1), dtype=np.float32) + class2id[meta_info['major_class']]

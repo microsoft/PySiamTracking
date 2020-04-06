@@ -1,4 +1,3 @@
-import _init_paths
 import numpy as np
 import argparse
 import glob
@@ -7,7 +6,7 @@ import xml.etree.ElementTree as ET
 from os.path import join, basename, exists
 from os import listdir
 
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 CLASS_NAMES = [
     'n02691156', 'n02958343', 'n02834778', 'n02084071', 'n02411705', 'n02402425', 'n03790512', 'n02509815',

@@ -3,7 +3,7 @@ import numpy as np
 import argparse
 import cv2
 
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 YTBB_CLASSES = ['person', 'bird', 'bicycle', 'boat', 'bus',
                     'bear', 'cow', 'cat', 'giraffe', 'potted plant',

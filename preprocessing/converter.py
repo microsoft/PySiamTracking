@@ -113,6 +113,7 @@ class PairAnnotationConverter(object):
         img_output_dir = os.path.join(output_dir, 'images')
         if not os.path.isdir(img_output_dir):
             os.makedirs(img_output_dir)
+        print("image will be saved to ", os.path.abspath(img_output_dir))
 
         annos = dict(categories=self.categories, seqs=seq_annos)
         # save annotation into file.
@@ -141,13 +142,26 @@ class PairAnnotationConverter(object):
             for i in range(num_thread):
                 job_list[i].terminate()
 
+        # filter some invalid sequence
         valid_seq_annos = []
         for seq_anno in seq_annos:
             valid_flag = True
-            for frame_path in seq_anno['frames']:
-                if not os.path.exists(os.path.join(img_output_dir, frame_path)):
+            for frame_id in range(len(seq_anno['frames'])):
+                # check image file exists
+                frame_path = os.path.join(img_output_dir, seq_anno['frames'][frame_id])
+                if not os.path.exists(frame_path):
                     valid_flag = False
                     break
+                # check bounding box
+                bboxes = seq_anno['bboxes'][frame_id]
+                # some invalid boxes, whose width or height is less than 0, will be removed.
+                valid_inds = np.logical_and((bboxes[:, 2] > bboxes[:, 0] + 1),
+                                            (bboxes[:, 3] > bboxes[:, 1] + 1))
+                if not valid_inds[0]:
+                    valid_flag = False
+                    break
+
+            # if some bounding box is invalid            
             if valid_flag:
                 valid_seq_annos.append(seq_anno)
 

@@ -2,7 +2,7 @@ import os
 import numpy as np
 import argparse
 
-from preprocessing.converter import PairAnnotationConverter
+from converter import PairAnnotationConverter
 
 
 def parse_args():
