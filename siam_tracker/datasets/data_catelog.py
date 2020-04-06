@@ -19,7 +19,7 @@ _IS_IMAGE = 'is_image'
 
 _DATASETS = dict(
     coco=dict(
-        ann='coco.pkl',
+        ann='coco_clean.pkl',
         storage=dict(
             zip='COCO.zip',
             lmdb='COCO_lmdb',
@@ -46,7 +46,7 @@ _DATASETS = dict(
         is_image=False,
     ),
     trackingnet=dict(
-        ann='trackingnet.pkl',
+        ann='trackingnet_clean.pkl',
         storage=dict(
             zip='TrackingNet_images.zip',
             lmdb=None,
@@ -55,7 +55,7 @@ _DATASETS = dict(
         is_image=False,
     ),
     lasot=dict(
-        ann='lasot_train.pkl',
+        ann='lasot_train_clean.pkl',
         storage=dict(
             zip='LaSOT_trian_images.zip',
             lmdb=None,
